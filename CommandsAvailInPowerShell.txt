@@ -1,4 +1,5 @@
 The following commands are already available on this system:
+Updated 1/16/2019
 
 Add-SqlAvailabilityDatabase,
 Add-SqlAvailabilityGroupListenerStaticIp,
