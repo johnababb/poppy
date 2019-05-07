@@ -3,6 +3,7 @@ Updated 1/16/2019 at about 20:55 checked again at 21:17
 Just wanted to check it again at 21:26, you know, just in case
 Checking it on 4/4/19 at 13:52
 Just noticed that it is ok 4/4/19 13:57
+Still OK on 5/6/2019 at 8:00 pm
 
 Add-SqlAvailabilityDatabase,
 Add-SqlAvailabilityGroupListenerStaticIp,
